@@ -1,0 +1,23 @@
+{
+  "author": "Sami Kukkonen <sami.matias.kukkonen@gmail.com>",
+  "name": "jarvis",
+  "description": "Continuous Integration for node.js",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liquidproof/jarvis.git"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": ""
+  }
+  "engines": {
+    "node": "~v0.4.11"
+  },
+  "dependencies": {
+    "express": "2.4"
+    "winston": ""
+  },
+  "devDependencies": {
+  }
+}
